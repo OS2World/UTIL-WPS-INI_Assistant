@@ -1,0 +1,11 @@
+VX-REXX OS/2 V2.14 Build B3
+VRX: INIAssi.VRX
+MacroPath: VRM:E:\Dev\REXX\VXREXX\Projects\INIGet
+EXEPath: 
+RunParameters: 
+RunDirectory: 
+VRXWindow: __VREMainWindow,1,60,1747,979,8040
+VRXWindow: __VRESectionListWindow,1,5496,8416,2650,3342
+VRXWindow: __VREToolsWindow,1,30,181,4996,1684
+VRXWindow: __VREWindListWindow,1,1189,8703,2650,3150
+UserFile: 1

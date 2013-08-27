@@ -1,0 +1,16 @@
+Build 0.0.1 26-08-1999 First approach
+                       Known bugs: Generated REXX code might include lines
+                                   that exceed maximal length (fixed in 0.06).
+                                   ASCII entryfield shows entry only up to
+                                   first byte with zero value (still there).
+Build 0.0.2 02-09-1999 Changed language from german to english.
+Build 0.0.3 12-01-2000 Menu to choose INI files
+Build 0.0.4 15-01-2000 Added NSCP.INI and DOIP.INI
+Build 0.0.5 16-01-2000 Added LSUSE.INI, LSSHARE.INI, NETGUI.INI
+Build 0.0.6 20-01-2000 Fixed the long line issue, hex mode should be
+                       bullet prove now, ASCII mode still only works
+                       up to first byte with zero value 
+Build 0.0.7 10-03-2001 Added REXX concatenation operator (||) to
+                       produce really proper REXX code. Added
+                       general help menu. Strip blanks from filename
+                       of REXX script.
